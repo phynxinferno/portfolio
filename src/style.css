@@ -1,0 +1,18 @@
+@import '../resources/fonts/fonts.css';
+body { 
+    background-color: #303030;
+    /*font-family: 'Heebo';*/
+    color: white;
+}
+
+/* 
+Style Guide:Fonts {
+
+Main: Heebo- 'Heebo';
+Alt: Zen Kaku Gothic Antique- 'Gothic Antique';
+Alt(light): Lato- 'Lato';
+Accent: IBM Plex Sans Thai Looped- 'Plex Sans';
+Alt Accent(monospace): Roboto Mono- 'Roboto Monospace';
+
+}
+*/
